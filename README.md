@@ -37,6 +37,10 @@ Keep in mind that the name of the output model will be different so you have to 
 
 Later on, to complete the simulation of a person falling off the bed in that room, we used the point cloud file under the output/{model}/point_cloud/iteration_30000 folder and imported that file into Unity.
 
+| Unity | Info
+| --- | --- |
+[UnityRepo](https://colab.research.google.com/drive/19qzISTThWFGd3e00rAL6DC0Zqvlt9bT8?usp=sharing) | Unity Demo
+
 Following is the documentation of the original repository: 
 
 Bernhard Kerbl*, Georgios Kopanas*, Thomas Leimkühler, George Drettakis (* indicates equal contribution)<br>
