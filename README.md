@@ -39,7 +39,7 @@ Later on, to complete the simulation of a person falling off the bed in that roo
 
 | Unity | Info
 | --- | --- |
-[UnityRepo](https://colab.research.google.com/drive/19qzISTThWFGd3e00rAL6DC0Zqvlt9bT8?usp=sharing) | Unity Demo
+[UnityRepo](https://github.com/Stam21/UnityGaussianSplattingDemo) | Unity Demo
 
 Following is the documentation of the original repository: 
 
